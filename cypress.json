@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://qastoredesafio.lojaintegrada.com.br",
+    "testFiles": [
+        "register.spec.js",
+        "login.spec.js",
+        "cart.spec.js",
+        "checkout.spec.js"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "CoenraadS.bracket-pair-colorizer",
+        "andrew-codes.cypress-snippets",
+        "shelex.vscode-cy-helper",
+        "dbaeumer.vscode-eslint",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

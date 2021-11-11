@@ -1,0 +1,24 @@
+{
+  "name": "loja-integrada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.5.0",
+    "pure-gen": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:run": "npx cypress run",
+    "cy:open": "npx cypress open"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
