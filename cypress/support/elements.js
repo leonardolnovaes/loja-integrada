@@ -64,6 +64,7 @@ export const ELEMENTS = {
     labelShippingTaxCheckout: ".frete-preco > .titulo",
     labelDiscountsCheckout: ".desconto-preco > .titulo",
     labelDiscountsCouponCheckout: "#cupomResultado > .titulo",
+    labelFreeShippingCouponCheckout: "#cupomResultado > strong",
     labelTotalCheckout: ".total > .titulo",
     buttonFinalizeOrderCheckout: "#finalizarCompra",
 
